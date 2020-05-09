@@ -1,2 +1,2 @@
 # demo-exercise
-testing github classroom
+this is not a classroom
